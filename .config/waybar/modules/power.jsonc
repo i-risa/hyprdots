@@ -1,0 +1,8 @@
+    "custom/power": {
+        "format": "{}",
+        "exec": "echo ; echo  logout",
+        "on-click": "~/.config/rofi/applets/bin/powermenu.sh",
+        "interval" : 86400, // once every day
+        "tooltip": true
+    },
+
