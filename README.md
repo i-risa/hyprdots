@@ -1,7 +1,15 @@
 ###### *<div align = right><sub>// design by moi</sub></div>*
 <div align = center><img src="Assets/hypr-banner.png"><br><br>
 
-<video src="https://github.com/i-risa/hyprdots/blob/main/Assets/showcase_1.mp4" width="100%" />
+
+
+
+https://github.com/i-risa/hyprdots/assets/90930340/a80d3e4b-0326-4f5b-bbe9-ce323ade18f5
+
+
+
+
+
 
 <p align="center">
     <img align="center" width="100%" src="Assets/neofetch.png" /> 
@@ -9,6 +17,8 @@
     <img align="center" width="100%" src="Assets/powermenu.png" />
 </p>
 
+
+https://github.com/i-risa/hyprdots/assets/90930340/1aefa978-6998-4091-906d-86c06beb56cc
 
 
 
