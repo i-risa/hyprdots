@@ -1,0 +1,7 @@
+#!/usr/bin/env fish
+
+# start swwww
+swww query; or swww init
+set wallpaper_dir "$HOME/Pictures/Wallpapers/Live"
+set wallpaper (ls $wallpaper_dir | shuf --random-source=/dev/urandom -n 1)
+swww img "$wallpaper_dir/$wallpaper" --transition-step  90 --transition-type wipe --transition-angle 30
