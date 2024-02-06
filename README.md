@@ -1,12 +1,12 @@
 ###### *<div align = right><sub>// design by moi</sub></div>*
 <div align = center><img src="Assets/hypr-banner.png"><br><br>
 
-https://github.com/i-risa/hyprdots/blob/main/Assets/showcase_1.mp4
+<video src="https://github.com/i-risa/hyprdots/blob/main/Assets/showcase_1.mp4" width="100%" />
 
 <p align="center">
-    <img align="center" width="49%" src="Assets/neofetch.png" /> 
-    <img align="center" width="49%" src="Assets/rofi.png" />
-    <img align="center" width="49%" src="Assets/powermenu.png" />
+    <img align="center" width="100%" src="Assets/neofetch.png" /> 
+    <img align="center" width="100%" src="Assets/rofi.png" />
+    <img align="center" width="100%" src="Assets/powermenu.png" />
 </p>
 
 
